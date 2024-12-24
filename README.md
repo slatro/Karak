@@ -50,7 +50,7 @@ contract HelloWorld {
 
 > [Zealy](https://zealy.io/cw/karaknetwork/questboard) Developer kısmına bunları gireceğiz.
 
-> 1 TX Hash - 2 Wallet Adres - 3 Kontrat adres diyip claim ediyoruz ödülümüzü.
+> 1 TX Hash - 2 Wallet Adres - 3 Kontrat adres diyip claim ediyoruz ödülümüzü..
 
 ![image](https://github.com/ruesandora/Karak/assets/101149671/57173b44-dbd3-4cc9-8c2f-f4330d55824f)
 
